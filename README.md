@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Perfil</title>
+    <title>UM POUCO SOBRE MIM</title>
 </head>
 <body>
 
@@ -13,10 +13,10 @@
 </html>
 
 
+
                                                             
 
 <div>
-  <img height="180em" src= "https://github-readme-stats.vercel.app/api?username=RassiGG&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RassiGG&layout=compact&langs_count=16&theme=dracula"/>
-  <img height = "180em" src = C:\Users\Public\Pictures\sr incrivelmente.jpg/>
+  <img height="180em" src= "https://github-readme-stats.vercel.app/api?username=RassiGG&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RassiGG&layout=compact&langs_count=16&theme=transparent"/>
 </div>

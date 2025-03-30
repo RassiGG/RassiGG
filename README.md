@@ -3,7 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <font color= "#191970"
         <h2> OLÁ ME CHAMO LEO RASSI! </h2>
+        </font>
 </head>
 <body>
     <ul>

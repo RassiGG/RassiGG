@@ -23,7 +23,7 @@
 
 <div>
   <img height="180em" src= "https://github-readme-stats.vercel.app/api?username=RassiGG&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-    <h4> Linguagens de Programação </h4>
+    <h4> Linguagens </h4>
     <img 
     align="left" 
     alt="HTML"
@@ -66,7 +66,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
     />
     
-
 
     
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RassiGG&layout=compact&langs_count=16&theme=blue-green"/>

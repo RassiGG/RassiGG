@@ -22,7 +22,7 @@
                                                             
 
 <div>
-  <img height="180em" src= "https://github-readme-stats.vercel.app/api?username=RassiGG&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180em" src= "https://github-readme-stats.vercel.app/api?username=RassiGG&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
     <h4> Tecnologias e linguagens  </h4>
     <img 
     align="left" 

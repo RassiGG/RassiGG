@@ -10,7 +10,6 @@
   <h3> UM POUCO SOBRE MIM :) </h3>
 <li> Sou programador iniciante no IFMT e adoro aprender uma coisa nova </li>
 <li> Eu programo em HTML e Java </li>
-<li>  Aprendendo JavaScript e um pouco de Lua </li>
 
 
        

@@ -8,8 +8,8 @@
 <body>
     <ul>
   <h3> UM POUCO SOBRE MIM :) </h3>
-<li> Sou programador iniciante no IFMT e adoro aprender uma coisa nova </li>
-<li> Eu programo em HTML e Java </li>
+<li> Apenas iniciante nos códigos :) </li>
+<li> Amo tecnologia </li>
 
 
        

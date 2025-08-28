@@ -8,7 +8,7 @@
 <body>
     <ul>
   <h3> UM POUCO SOBRE MIM :) </h3>
-<li> Apenas iniciante nos códigos :) </li>
+<li> Apenas iniciante nos computer :) </li>
 <li> Amo tecnologia </li>
 
 

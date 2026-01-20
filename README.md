@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <h2> OLÁ ME CHAMO LEO RASSI! </h2>
+        <h2> HI ITS RASSI! </h2>
 </head>
 <body>
     <ul>
-  <h3> UM POUCO SOBRE MIM :) </h3>
-<li> Apenas iniciante nos computer :) </li>
-<li> Amo tecnologia </li>
-
+  <h3> ABOUT ME :) </h3>
+<li>  I like coding projects or something i like to developing:) </li>
+<li> Im Brazilian </li>
+<li> My favorite language for programming is Java </li>
 
        
 </body>
@@ -22,7 +22,7 @@
 
 <div>
   <img height="180em" src= "https://github-readme-stats.vercel.app/api?username=RassiGG&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-    <h4> Tecnologias e linguagens  </h4>
+    <h4> Languages </h4>
     <img 
     align="left" 
     alt="HTML"

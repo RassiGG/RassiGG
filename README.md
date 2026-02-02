@@ -11,7 +11,8 @@
 <li>  I like coding projects or something i like to developing:) </li>
 <li> Im Brazilian </li>
 <li> My favorite language for programming is Java </li>
-
+    
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RassiGG&layout=compact&langs_count=16&theme=midnight-purple"/>
 
 </body>
 </html>
@@ -67,6 +68,5 @@
 
     
 
-    
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RassiGG&layout=compact&langs_count=16&theme=midnight-purple"/>
+
 </div>

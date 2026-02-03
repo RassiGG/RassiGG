@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <h2> HI ITS RASSI! </h2>
+        <h2> HI ITS RASSI! MEU NOME É RASSI 👋</h2>
 </head>
 <body>
     <ul>
@@ -11,6 +11,7 @@
 <li>  I like coding projects or something i like to developing:) </li>
 <li> Im Brazilian </li>
 <li> My favorite language for programming is Java </li>
+
 <li> Técnico em Informática (2023 - 2025)</li>
     
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RassiGG&layout=compact&langs_count=16&theme=midnight-purple"/>

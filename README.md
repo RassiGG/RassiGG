@@ -11,12 +11,18 @@
 <li>  I like coding projects or something i like to developing:) </li>
 <li> Im Brazilian </li>
 <li> My favorite language for programming is Java </li>
-
 <li> Técnico em Informática (2023 - 2025)</li>
     
 
 </body>
 </html>
+
+<div>
+ <img align="center" alt="Rassi-Js" height="30" width="40" src="https://camo.githubusercontent.com/91b64b39c7f17ce495ed3befee0bc7aa0ec56dde1c95e29581b684f8ecce955c/68747470733a2f2f676f6d79636f64652e636f6d2f65672f77702d636f6e74656e742f75706c6f6164732f73697465732f32382f323032332f31312f67697068792e676966">
+    
+</div>
+
+
 
 <div align="center">
   <a href="https://github.com/RassiGG">

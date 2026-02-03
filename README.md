@@ -50,7 +50,10 @@
   <a href="https://instagram.com/leorassinz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "https://steamcommunity.com/profiles/76561199008264175/"><img src="https://img.shields.io/badge/-Steam-%23333?style=for-the-badge&logo=Steam&logoColor=white" target="_blank"></a>
 </div>
+<div>
 
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+</div>
 
     
 </div>

@@ -9,8 +9,11 @@
     <ul>
   <h3> ABOUT ME :) </h3>
 <li>  I like coding projects or something i like to developing:) </li>
+        
 <li> Im Brazilian </li>
+        
 <li> My favorite language for programming is Java </li>
+        
 <li> Técnico em Informática (2023 - 2025)</li>
     
 

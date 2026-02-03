@@ -18,13 +18,13 @@
 </html>
 
 <div>
- <img align="right" alt="Rassi-DECORAÇÃO" height="580" width="580" src="https://camo.githubusercontent.com/91b64b39c7f17ce495ed3befee0bc7aa0ec56dde1c95e29581b684f8ecce955c/68747470733a2f2f676f6d79636f64652e636f6d2f65672f77702d636f6e74656e742f75706c6f6164732f73697465732f32382f323032332f31312f67697068792e676966">
+ <img align="right" alt="Rassi-DECORAÇÃO" height="480" width="480" src="https://camo.githubusercontent.com/91b64b39c7f17ce495ed3befee0bc7aa0ec56dde1c95e29581b684f8ecce955c/68747470733a2f2f676f6d79636f64652e636f6d2f65672f77702d636f6e74656e742f75706c6f6164732f73697465732f32382f323032332f31312f67697068792e676966">
     
 </div>
 
 
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/RassiGG">
     
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RassiGG&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

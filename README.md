@@ -14,7 +14,7 @@
 
 <li> Técnico em Informática (2023 - 2025)</li>
     
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RassiGG&layout=compact&langs_count=16&theme=midnight-purple"/>
+[  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RassiGG&layout=compact&langs_count=16&theme=midnight-purple"/>](https://camo.githubusercontent.com/91b64b39c7f17ce495ed3befee0bc7aa0ec56dde1c95e29581b684f8ecce955c/68747470733a2f2f676f6d79636f64652e636f6d2f65672f77702d636f6e74656e742f75706c6f6164732f73697465732f32382f323032332f31312f67697068792e676966)
 
 </body>
 </html>

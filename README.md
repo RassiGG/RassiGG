@@ -18,7 +18,7 @@
 </html>
 
 <div>
- <img align="right" alt="Rassi-DECORAÇÃO" height="280" width="280" src="">
+ <img align="right" alt="" height="280" width="280" src="">
     
 </div>
 

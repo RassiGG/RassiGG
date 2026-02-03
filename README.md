@@ -38,7 +38,7 @@
       <img align="center" alt="Fabio-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div>
 
-<div>
+
 <div> 
   <a href="https://instagram.com/leorassinz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "https://steamcommunity.com/profiles/76561199008264175/"><img src="https://img.shields.io/badge/-Steam-%23333?style=for-the-badge&logo=Steam&logoColor=white" target="_blank"></a>

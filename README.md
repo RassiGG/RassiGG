@@ -32,7 +32,7 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RassiGG&layout=compact&langs_count=16&theme=midnight-purple"/>](https://camo.githubusercontent.com/91b64b39c7f17ce495ed3befee0bc7aa0ec56dde1c95e29581b684f8ecce955c/68747470733a2f2f676f6d79636f64652e636f6d2f65672f77702d636f6e74656e742f75706c6f6164732f73697465732f32382f323032332f31312f67697068792e676966)
+  
 
 <img 
     align="left" 
@@ -62,7 +62,11 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
     />
 
+   align="left" 
+    alt="daa"
+    title="daa" 
+<img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RassiGG&layout=compact&langs_count=16&theme=midnight-purple"/>](https://camo.githubusercontent.com/91b64b39c7f17ce495ed3befee0bc7aa0ec56dde1c95e29581b684f8ecce955c/68747470733a2f2f676f6d79636f64652e636f6d2f65672f77702d636f6e74656e742f75706c6f6164732f73697465732f32382f323032332f31312f67697068792e676966)
     
-
+/>
 
 </div>

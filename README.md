@@ -52,7 +52,7 @@
 </div>
 <div>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/RassiGG/RassiGG/output/snake.svg" alt="Snake animation" />
 </div>
 
     

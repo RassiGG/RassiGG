@@ -18,7 +18,7 @@
 </html>
 
 <div>
- <img align="right" = height="280" width="280" =>
+
     
 </div>
 

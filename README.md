@@ -55,7 +55,7 @@
 <div> 
   <a href="https://instagram.com/leorassinz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "https://steamcommunity.com/profiles/76561199008264175/"><img src="https://img.shields.io/badge/-Steam-%23333?style=for-the-badge&logo=Steam&logoColor=white" target="_blank">
-    <a href = ""
+    <a href = "https://www.linkedin.com/in/leonardo-ali-paiter-rassi-15a7063a9/"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo">
   </a>
 </div>
 

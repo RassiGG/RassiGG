@@ -39,7 +39,7 @@
 
 
 </div>
- <h5> Linguagens e ferramentas </h5>
+ <h3> Linguagens e ferramentas </h3>
 <div style="display: inline_block"><br>
  <img align="center" alt="Rassi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rassi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -49,7 +49,7 @@
     <img align="center" alt="Rassi SQL"  height="30" width="40" src="https://camo.githubusercontent.com/bf92a88bffd2578fd489ef020dde95f56a3ac0eedfc294cee3f7e2747a936803/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f617a75726573716c64617461626173652f617a75726573716c64617461626173652d6f726967696e616c2e737667">
     <br>
     <br>
-    <h5> Redes Sociais</h5>
+    <h3> Redes Sociais </h3>
     <br>
     <br>
 </div>

@@ -46,6 +46,7 @@
   <img align="center" alt="Rassi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
       <img align="center" alt="Rassi-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
     <img align="center" alt="Rassi-Node" height="30" width="40"src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /> 
+    <img align="center" alt="Rassi-React" height="30" width="40"src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
     <img align="center" alt="Rassi SQL"  height="30" width="40" src="https://camo.githubusercontent.com/bf92a88bffd2578fd489ef020dde95f56a3ac0eedfc294cee3f7e2747a936803/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f617a75726573716c64617461626173652f617a75726573716c64617461626173652d6f726967696e616c2e737667">
     <br>
     <h3> Redes Sociais </h3>

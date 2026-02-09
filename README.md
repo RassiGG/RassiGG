@@ -47,8 +47,9 @@
       <img align="center" alt="Rassi-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
     <img align="center" alt="Rassi-Node" height="30" width="40"src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /> 
     <img align="center" alt="Rassi-React" height="30" width="40"src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
-    <img align="center" alt="Rassi POSTGRESQL"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
+    <img align="center" alt="Rassi MySQL"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
     <img align="center" alt="Rassi GIT"  height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+    <img align="center" alt="Rassi Linux(Manjaro)" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
     <br>
     <h3> Redes Sociais </h3>
     <br>

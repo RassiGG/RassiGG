@@ -49,7 +49,6 @@
     <img align="center" alt="Rassi-React" height="30" width="40"src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
     <img align="center" alt="Rassi MySQL"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
     <img align="center" alt="Rassi GIT"  height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-    <img align="center" alt="Rassi Linux(Manjaro)" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
     <br>
     <h3> Redes Sociais </h3>
     <br>

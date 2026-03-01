@@ -14,7 +14,7 @@
         
 <li> My favorite language for programming is Java </li>
         
-<li> Técnico em Informática (2023 - 2025)</li>
+<li> Formado em Técnico em Informática (2023 - 2025)</li>
     
 
 </body>

@@ -9,7 +9,7 @@
 
     
 <div>
-<img align ="center" alt="Rassi coding" height="30" weight="40" src="https://raw.githubusercontent.com/saturn-abhishek/abhisheknaiidu/master/code.gif">
+<img align ="center" alt="Rassi coding" height="110" weight="90" src="https://raw.githubusercontent.com/saturn-abhishek/abhisheknaiidu/master/code.gif">
 </div>
 
   <h3> ABOUT ME :) </h3>

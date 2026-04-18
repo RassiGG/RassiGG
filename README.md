@@ -11,9 +11,7 @@
 <div>
 <img align ="center" alt="Rassi coding" height="210" weight="190" src="https://raw.githubusercontent.com/saturn-abhishek/abhisheknaiidu/master/code.gif">
 </div>
-<div>
-    <img src="https://camo.githubusercontent.com/7b60918a718d321e304686494060b6ed7c0957dfd29e0961d6b0e49cb9550e7f/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966">
-</div>
+
     
   <h3> ABOUT ME :) </h3>
         

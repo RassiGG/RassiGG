@@ -14,6 +14,7 @@
 
     
   <div>
+      <img src="">
       <h3> ABOUT ME :) </h3>
 </div>    
 
@@ -40,7 +41,7 @@
         
     }
     }
-}
+
     
 
 </body>

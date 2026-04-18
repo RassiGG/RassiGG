@@ -13,8 +13,9 @@
 </div>
 
     
-  <h3> ABOUT ME :) </h3>
-        
+  <div>
+      <h3> ABOUT ME :) </h3>
+</div>    
 
     
     public class aboutme{
@@ -44,8 +45,6 @@
 
 </body>
 </html>
-
-
 
 
 <div align="left">

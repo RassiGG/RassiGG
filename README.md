@@ -15,11 +15,12 @@
   <h3> ABOUT ME :) </h3>
         
 <div img src="https://camo.githubusercontent.com/7b60918a718d321e304686494060b6ed7c0957dfd29e0961d6b0e49cb9550e7f/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966">
+</div>
     
     public class aboutme{
 
     private String location;
-    public String hacker;
+    public String programator;
     public String habilities;
     public static void main(String[] args) {
         System.out.println("My name is: Leonardo Rassi");
@@ -28,11 +29,11 @@
         System.out.println("I am passionate about programming and technology.");
         aboutme person = new aboutme();
         person.location = "Brazil";
-        person.hacker = "I am a passionate programmer.";
+        person.programator = "I am a passionate programmer.";
         person.habilities = "I have medium experience in Java, and Web development with JavaScript, HTML, CSS and Typescript and learning C language.";
     while (person != null) {
         System.out.println("I am from: " + person.location);
-        System.out.println(person.hacker);
+        System.out.println(person.programator);
         System.out.println("My habilities are: " + person.habilities);
         break;
         

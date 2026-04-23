@@ -6,7 +6,6 @@
         <h2> HI ITS RASSI! 👋</h2>
 </head>
 <body>
-
     
 <div>
 <img align ="center" alt="Rassi coding" height="210" weight="190" src="https://raw.githubusercontent.com/saturn-abhishek/abhisheknaiidu/master/code.gif">
@@ -52,7 +51,7 @@
     
   <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RassiGG&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RassiGG&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RassiGG&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
 </div>
 
                                                             

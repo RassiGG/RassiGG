@@ -50,7 +50,15 @@
   <a href="https://github.com/RassiGG">
     
   <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RassiGG&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    
+  
+![](https://github-readme-stats.shion.dev/api?username=RassiGG&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=RassiGG&theme=one_dark_pro&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=RassiGG&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=RassiGG&icon=9&color=6)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RassiGG&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 

@@ -88,9 +88,7 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=RassiGG&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+
 
 <div>
     <img src="https://camo.githubusercontent.com/7bde8b88b6b5e4ae8be618ff06caca26e117f02b7ea4598f0c5c02cfeb683f33/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f7265706f732d7065722d6c616e67756167653f757365726e616d653d4d72576869746534393339267468656d653d7261646963616c

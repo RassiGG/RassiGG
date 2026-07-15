@@ -16,29 +16,18 @@
       <h3> ABOUT ME :) </h3>
 </div>    
 
+    class Aboutme:
+    def info(me, school, name, location, language):
+        me.school = "UFMT"
+        me.name = "Rassi"
+        me.location = "Brazil"
+        me.language = "English and Portuguese"
+    def bio(me):
+        print(f"Hi my name is {me.name} \n")
+        print(f"I am from {me.location} ")
+        print(f"I speak {me.language}")
     
-    public class aboutme{
 
-    private String location;
-    public String programator;
-    public String habilities;
-    public static void main(String[] args) {
-        System.out.println("My name is: Leonardo Rassi");
-        System.out.println("I am 17 years old.");
-        System.out.println("I am a student of computer engineering from UFMT.");
-        System.out.println("I am passionate about programming and technology.");
-        aboutme person = new aboutme();
-        person.location = "Brazil";
-        person.programator = "I am a passionate programmer.";
-        person.habilities = "I have medium experience in Java, and Web development with JavaScript, HTML, CSS and Typescript and learning C language.";
-    while (person != null) {
-        System.out.println("I am from: " + person.location);
-        System.out.println(person.programator);
-        System.out.println("My habilities are: " + person.habilities);
-        break;
-        
-    }
-    }
 
     
 

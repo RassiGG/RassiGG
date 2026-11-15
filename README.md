@@ -16,17 +16,27 @@
       <h3> ABOUT ME :) </h3>
 </div>    
 
-    class Aboutme:
-    def info(me, school, name, location, language):
-        me.school = "UFMT"
-        me.name = "Rassi"
-        me.location = "Brazil"
-        me.language = "English and Portuguese"
-    def bio(me):
-        print(f"Hi my name is {me.name} \n")
-        print(f"I am from {me.location} ")
-        print(f"I speak {me.language}")
-    
+#include <stdio.h>
+#include <string.h>
+typedef struct{
+    char Creator_name[50];
+    char location[50];
+    char language[50];
+    char school[50];
+}aboutRASSI;
+int main(){
+aboutRASSI about_me;
+    strcpy(about_me.Creator_name, "Leonardo Rassi");
+    strcpy(about_me.location, "Brazil");
+    strcpy(about_me.language, "English and Portuguese");
+    strcpy(about_me.school, "UFMT");
+    printf("\nInformacoes sobre o RASSI:\n");
+    printf("Name: %s", about_me.Creator_name);
+    printf("Country: %s", about_me.location);
+    printf("Languages: %s", about_me.language);
+    printf("School: %s", about_me.school);
+    return 0;
+}
 
 
     
